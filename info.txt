@@ -1,0 +1,21 @@
+informação do A :
+informação do B :
+informação do C :
+informação do A : total 0
+informação do B : total 0
+informação do C : tchau:
+informação do A : total 0
+informação do B : total 0
+informação do C : tchau:
+informação do A :
+informação do B :
+informação do C :
+informação do A :
+informação do B :
+informação do C :
+informação do A : total 0
+informação do B : total 0
+informação do C : total 0
+informação do A : total 0 -rw-r--r-- 1 root root 0 set 11 16:45 vasco
+informação do B : total 0 -rw-r--r-- 1 root root 0 set 11 16:45 maior
+informação do C : total 0 -rw-r--r-- 1 root root 0 set 11 16:46 do -rw-r--r-- 1 root root 0 set 11 16:46 rio
